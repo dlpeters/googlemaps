@@ -1,0 +1,19 @@
+
+
+html, body,
+#map-canvas
+{
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+
+
+
+input
+{
+    box-shadow: darkblue;
+    width: 400px;
+    height: 50px;
+    border: 5px;
+}
